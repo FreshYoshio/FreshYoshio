@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp5983218.jpg)
+![MasterHead](https://wallpapercave.com/wp/wp5983218.jpg)
 
 <h1 align="center">I'm Serhat</h1>
 <h3 align="center">A Young Game Developer from Turkey</h3>
