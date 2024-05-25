@@ -1,13 +1,9 @@
-![MasterHead](https://wallpapercave.com/wp/wp5983218.jpg)
+[![MasterHead](https://wallpapercave.com/wp/wp5983218.jpg)
 
 <h1 align="center">I'm Serhat</h1>
 <h3 align="center">A Young Game Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **C#,C++**
-
-- 💬 Ask me about **Unreal Engine**
-
-- 📫 How to reach me **serhatciftci0335@gmail.com**
+- :mailbox: How to reach me **serhatciftci0335@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +16,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/serhatciftci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="serhatciftci" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freshyoshio&show_icons=true&locale=en&layout=compact" alt="freshyoshio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freshyoshio&show_icons=true&locale=en" alt="freshyoshio" /></p>
 
