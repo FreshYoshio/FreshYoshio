@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **serhatciftci0335@gmail.com**
 
-[![ Spotify](https://serhats-projects-0e36a891.vercel.app/api/spotify)](https://open.spotify.com/user/SamuelEduardoYoshio)
+[![ Spotify](https://freshyoshio.vercel.app/api/spotify)](https://open.spotify.com/user/SamuelEduardoYoshio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
