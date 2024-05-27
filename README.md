@@ -22,9 +22,7 @@
 <p><a href="https://www.buymeacoffee.com/serhatciftci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="serhatciftci" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freshyoshio&show_icons=true&locale=en&layout=compact" alt="freshyoshio" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freshyoshio&show_icons=true&locale=en" alt="freshyoshio" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshyoshio&" alt="freshyoshio" /></p>
 
 <picture>
