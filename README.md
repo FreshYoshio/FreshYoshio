@@ -1,4 +1,3 @@
-![MasterHead](https://wallpapercave.com/wp/wp5983218.jpg)
 <h1 align="center">I'm Serhat</h1>
 <h3 align="center">A Young Game Developer from Turkey</h3>
 
@@ -7,6 +6,8 @@
 - 💬 Ask me about **Unreal Engine**
 
 - 📫 How to reach me **serhatciftci0335@gmail.com**
+
+[![ Spotify](https://serhats-projects-0e36a891.vercel.app/api/spotify)](https://open.spotify.com/user/SamuelEduardoYoshio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
