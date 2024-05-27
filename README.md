@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **serhatciftci0335@gmail.com**
 
-[![ Spotify](https://freshyoshio.vercel.app/api/spotify)](https://open.spotify.com/user/SamuelEduardoYoshio)
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jebpov7hgdvc7g6j7qblpbvxo4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jebpov7hgdvc7g6j7qblpbvxo4&redirect=true)
 
 <h3 align="left">Connect with me:</h3>
