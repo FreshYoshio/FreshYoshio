@@ -9,6 +9,8 @@
 
 [![ Spotify](https://freshyoshio.vercel.app/api/spotify)](https://open.spotify.com/user/SamuelEduardoYoshio)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jebpov7hgdvc7g6j7qblpbvxo4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jebpov7hgdvc7g6j7qblpbvxo4&redirect=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/serhatciftci03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhatciftci03" height="30" width="40" /></a>
