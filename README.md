@@ -2,7 +2,7 @@
 ```c++
 struct { // About Me
     string intro = "Hi, I'm Serhat, a Game Developer.";
-    vector<string> common_langs = { "HTML", "CSS", "JS", "PHP", "C++", "C#", "SQL"};
+    vector<string> common_langs = { "HTML", "CSS", "JS", "PHP", "C++", "C#", "SQL","PY"};
     vector<string> learning = { "C#", "C++" };
     string interest = "I love developing video games";
     string email = "serhatciftci0335@gmail.com";
