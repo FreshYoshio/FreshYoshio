@@ -23,8 +23,3 @@ struct { // About Me
 </picture>
 
 <p> <a href="https://www.buymeacoffee.com/serhatciftci"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="serhatciftci" /></a></p><br><br>
-
-## What I'm Vibing to 🎵:
-&nbsp;<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31jebpov7hgdvc7g6j7qblpbvxo4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31jebpov7hgdvc7g6j7qblpbvxo4&redirect=true)
-</div>
